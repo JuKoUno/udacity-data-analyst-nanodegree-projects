@@ -1,0 +1,28 @@
+welche plots:
+
+
+> histograms: loan original ammount, term, borrowerAPR, States Monthly income
+
+> barplots: loan status, occupation, IsBorrowerHomeowner, listing category, borrower state, employment status, total prosper loans
+
+> to work on: closed date (get years), occupation(group?), lender yield -> service fee
+
+
+*** the loans
+BorrowerAPR
+LoanStatus
+bivar: Investors(investors vs amount of Loan)
+
+what volume of loans get defaulted versus volume of paid loans? compare over years? what are risk variables?
+
+
+*** the borrowers
+BorrowerState, Occupation, Employment Status, (EmploymentStatusDuration), IsBorrowerHomeowner, IncomeRange, 
+TotalProsperLoans, 
+MemberKey(is there more information on one borrower?)
+
+which loans default the most? amount, listing category, ... is there a critical monthly loan rate?
+critical monthlyrate/income?
+
+
+mean median confidence intercals corrlations

@@ -1,0 +1,5 @@
+SELECT *
+FROM city_data
+WHERE city LIKE 'Munich'
+
+
